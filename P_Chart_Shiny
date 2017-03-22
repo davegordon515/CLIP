@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://localhost/wordpress/xmlrpc.php" />
+<title>Project Planner &#8211; Collaboration for Locally-Driven Improvement in Pediatrics</title>
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Collaboration for Locally-Driven Improvement in Pediatrics &raquo; Feed" href="http://localhost/wordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Collaboration for Locally-Driven Improvement in Pediatrics &raquo; Comments Feed" href="http://localhost/wordpress/comments/feed/" />
+		<script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/D3E3DFF6-0DC1-6B41-9C1D-9345158AD251/main.js" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="http://gc.kis.v2.scr.kaspersky-labs.com/152DA8515439-D1C9-14B6-1CD0-6FFD3E3D/abn/main.css"/><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='formidable-css'  href='http://localhost/wordpress/wp-content/uploads/formidable/css/formidablepro.css?ver=7121629' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/wordpress/wp-includes/css/dashicons.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost/wordpress/wp-includes/css/admin-bar.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='frm_fonts-css'  href='http://localhost/wordpress/wp-content/plugins/formidable/css/frm_fonts.css?ver=2.02.04' type='text/css' media='all' />
+<link rel='stylesheet' id='ctwg-shortcodes-css'  href='http://localhost/wordpress/wp-content/plugins/cpo-widgets/css/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='formidable_shortcode_css-css'  href='http://localhost/wordpress/wp-content/plugins/formidablepro-2-pdf/css/style.css?ver=1489162727' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://localhost/wordpress/wp-content/themes/catch-box/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='catchbox-style-css'  href='http://localhost/wordpress/wp-content/themes/catch-box/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='blue-css'  href='http://localhost/wordpress/wp-content/themes/catch-box/colors/blue.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/catch-box/js/menu.min.js?ver=2.1.1.1'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/catch-box/js/html5.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://localhost/wordpress/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wordpress/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel="canonical" href="http://localhost/wordpress/my-projects/plan/project-planner/" />
+<link rel='shortlink' href='http://localhost/wordpress/?p=31' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fwordpress%2Fmy-projects%2Fplan%2Fproject-planner%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fwordpress%2Fmy-projects%2Fplan%2Fproject-planner%2F&#038;format=xml" />
+	<style type="text/css">
+			#site-title,
+		#site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #319bd8; }
+</style>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<link rel="icon" href="http://localhost/wordpress/wp-content/uploads/2016/07/cropped-CLIP-Logo-Broken-Cycle-Only-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://localhost/wordpress/wp-content/uploads/2016/07/cropped-CLIP-Logo-Broken-Cycle-Only-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://localhost/wordpress/wp-content/uploads/2016/07/cropped-CLIP-Logo-Broken-Cycle-Only-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://localhost/wordpress/wp-content/uploads/2016/07/cropped-CLIP-Logo-Broken-Cycle-Only-270x270.jpg" />
+</head>
+
+<body class="page-template-default page page-id-31 page-child parent-pageid-60 logged-in admin-bar no-customize-support custom-background wp-custom-logo single-author no-sidebar one-column one-menu header-image-top">
+
+
+<div id="page" class="hfeed site">
+
+	<a href="#main" class="skip-link screen-reader-text">Skip to content</a>
+	<header id="branding" role="banner">
+
+
+    	<div id="header-content" class="clearfix">
+
+			<div class="logo-wrap clearfix"><div id="site-logo"><a href="http://localhost/wordpress/" class="custom-logo-link" rel="home" itemprop="url"><img width="436" height="183" src="http://localhost/wordpress/wp-content/uploads/2017/02/CLIP-Logo-Broken-Cycle.jpg" class="custom-logo" alt="" itemprop="logo" srcset="http://localhost/wordpress/wp-content/uploads/2017/02/CLIP-Logo-Broken-Cycle.jpg 436w, http://localhost/wordpress/wp-content/uploads/2017/02/CLIP-Logo-Broken-Cycle-300x126.jpg 300w" sizes="(max-width: 436px) 100vw, 436px" /></a></div><!-- #site-logo -->	<div id="hgroup" class="site-details">
+					<p id="site-title"><a href="http://localhost/wordpress/" rel="home">Collaboration for Locally-Driven Improvement in Pediatrics</a></p>
+					<p id="site-description">Better healthcare from the bottom up</p>
+
+   	</div><!-- #hgroup -->
+</div><!-- .logo-wrap -->	<form role="search" method="get" class="searchform" action="http://localhost/wordpress/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+		</label>
+		<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+	</form>
+		</div><!-- #header-content -->
+
+    	    <div class="menu-access-wrap mobile-header-menu clearfix">
+        <div id="mobile-header-left-menu" class="mobile-menu-anchor page-menu">
+            <a href="#mobile-header-left-nav" id="menu-toggle-primary" class="genericon genericon-menu">
+                <span class="mobile-menu-text">Menu</span>
+            </a>
+        </div><!-- #mobile-header-left-menu -->
+
+
+        <div id="site-header-menu-primary" class="site-header-menu">
+            <nav id="access" class="main-navigation menu-focus" role="navigation" aria-label="Primary Menu">
+
+                <h3 class="screen-reader-text">Primary menu</h3>
+                <div class="menu-header-container"><ul class="menu"><li ><a href="http://localhost/wordpress/">Home</a></li><li class="page_item page-item-452"><a href="http://localhost/wordpress/a-shiny/">A Shiny</a></li><li class="page_item page-item-428"><a href="http://localhost/wordpress/data-entry-p-chart/">Data entry, P chart</a></li><li class="page_item page-item-421"><a href="http://localhost/wordpress/login/">Login</a></li><li class="page_item page-item-406"><a href="http://localhost/wordpress/p-chart/">P Chart</a></li><li class="page_item page-item-418"><a href="http://localhost/wordpress/registration/">Registration</a></li><li class="page_item page-item-191"><a href="http://localhost/wordpress/home/">Home</a></li><li class="page_item page-item-4"><a href="http://localhost/wordpress/about/">About</a></li><li class="page_item page-item-55 page_item_has_children current-menu-ancestor"><a href="http://localhost/wordpress/my-projects/">My Projects</a><ul class='children'><li class="page_item page-item-178"><a href="http://localhost/wordpress/my-projects/access-my-projects/">Access My Projects</a></li><li class="page_item page-item-60 page_item_has_children current-menu-ancestor current_page_parent"><a href="http://localhost/wordpress/my-projects/plan/">Plan</a><ul class='children'><li class="page_item page-item-31 current-menu-item"><a href="http://localhost/wordpress/my-projects/plan/project-planner/">Project Planner</a></li><li class="page_item page-item-246"><a href="http://localhost/wordpress/my-projects/plan/baseline-data-collection/">Baseline Data Manager, Outcome Indicator</a></li><li class="page_item page-item-33"><a href="http://localhost/wordpress/my-projects/plan/analysis-planner/">Analysis Planner</a></li><li class="page_item page-item-35"><a href="http://localhost/wordpress/my-projects/plan/ethics-planner/">Ethics Planner</a></li><li class="page_item page-item-45"><a href="http://localhost/wordpress/my-projects/plan/proposal-finalizer/">Proposal Finalizer</a></li><li class="page_item page-item-37"><a href="http://localhost/wordpress/my-projects/plan/proposal/">Proposal Review</a></li></ul></li><li class="page_item page-item-62 page_item_has_children"><a href="http://localhost/wordpress/my-projects/do/">Do</a><ul class='children'><li class="page_item page-item-78"><a href="http://localhost/wordpress/my-projects/do/schedule-manager/">Schedule Manager</a></li><li class="page_item page-item-41"><a href="http://localhost/wordpress/my-projects/do/intervention-data-manager/">Intervention Data Manager</a></li></ul></li><li class="page_item page-item-64 page_item_has_children"><a href="http://localhost/wordpress/my-projects/study/">Study</a><ul class='children'><li class="page_item page-item-43"><a href="http://localhost/wordpress/my-projects/study/analysis-guide/">Analysis Guide</a></li></ul></li><li class="page_item page-item-66 page_item_has_children"><a href="http://localhost/wordpress/my-projects/act/">Act</a><ul class='children'><li class="page_item page-item-84"><a href="http://localhost/wordpress/my-projects/act/iterative-project-planner/">Iterative Project Planner</a></li><li class="page_item page-item-80"><a href="http://localhost/wordpress/my-projects/act/schedule-manager/">Schedule Manager</a></li><li class="page_item page-item-82"><a href="http://localhost/wordpress/my-projects/act/intervention-data-manager/">Intervention Data Manager</a></li><li class="page_item page-item-47"><a href="http://localhost/wordpress/my-projects/act/report-finalizer/">Report Finalizer</a></li></ul></li></ul></li><li class="page_item page-item-57"><a href="http://localhost/wordpress/library/">Library</a></li><li class="page_item page-item-49 page_item_has_children"><a href="http://localhost/wordpress/help/">Help</a><ul class='children'><li class="page_item page-item-51"><a href="http://localhost/wordpress/help/faqs/">FAQs</a></li><li class="page_item page-item-53"><a href="http://localhost/wordpress/help/customer-enabled-tech-support/">Support Blog</a></li></ul></li><li class="page_item page-item-226 page_item_has_children"><a href="http://localhost/wordpress/resources/">Resources</a><ul class='children'><li class="page_item page-item-228 page_item_has_children"><a href="http://localhost/wordpress/resources/glossary/">Glossary</a><ul class='children'><li class="page_item page-item-324"><a href="http://localhost/wordpress/resources/glossary/aggregation-of-data/">Aggregation of data</a></li><li class="page_item page-item-306"><a href="http://localhost/wordpress/resources/glossary/annotation/">Annotation</a></li><li class="page_item page-item-338"><a href="http://localhost/wordpress/resources/glossary/bias/">Bias</a></li><li class="page_item page-item-359"><a href="http://localhost/wordpress/resources/glossary/c-chart-defects-fixed-number-of-inspection-units/">C chart (defects, fixed number of inspection units)</a></li><li class="page_item page-item-280"><a href="http://localhost/wordpress/resources/glossary/calculation-of-indicator/">Calculation of indicator</a></li><li class="page_item page-item-336"><a href="http://localhost/wordpress/resources/glossary/confounding/">Confounding</a></li><li class="page_item page-item-286"><a href="http://localhost/wordpress/resources/glossary/continuous-data/">Continuous data</a></li><li class="page_item page-item-342"><a href="http://localhost/wordpress/resources/glossary/costs/">Costs</a></li><li class="page_item page-item-326"><a href="http://localhost/wordpress/resources/glossary/de-identified-data/">De-identified data</a></li><li class="page_item page-item-314"><a href="http://localhost/wordpress/resources/glossary/defects/">Defects</a></li><li class="page_item page-item-278"><a href="http://localhost/wordpress/resources/glossary/denominator/">Denominator</a></li><li class="page_item page-item-282"><a href="http://localhost/wordpress/resources/glossary/disaggregation-of-data/">Disaggregation of data</a></li><li class="page_item page-item-288"><a href="http://localhost/wordpress/resources/glossary/discreet-data/">Discreet data</a></li><li class="page_item page-item-300"><a href="http://localhost/wordpress/resources/glossary/event/">Event</a></li><li class="page_item page-item-320"><a href="http://localhost/wordpress/resources/glossary/exclusion-criteria/">Exclusion criteria</a></li><li class="page_item page-item-312"><a href="http://localhost/wordpress/resources/glossary/fraction-non-conforming/">Fraction non-conforming</a></li><li class="page_item page-item-340"><a href="http://localhost/wordpress/resources/glossary/generalizability/">Generalizability</a></li><li class="page_item page-item-318"><a href="http://localhost/wordpress/resources/glossary/inclusion-criteria/">Inclusion criteria</a></li><li class="page_item page-item-274"><a href="http://localhost/wordpress/resources/glossary/indicator/">Indicator</a></li><li class="page_item page-item-316"><a href="http://localhost/wordpress/resources/glossary/inspection-unit/">Inspection unit</a></li><li class="page_item page-item-296"><a href="http://localhost/wordpress/resources/glossary/interval/">Interval</a></li><li class="page_item page-item-292"><a href="http://localhost/wordpress/resources/glossary/mean/">Mean</a></li><li class="page_item page-item-294"><a href="http://localhost/wordpress/resources/glossary/median/">Median</a></li><li class="page_item page-item-310"><a href="http://localhost/wordpress/resources/glossary/moving-range/">Moving range</a></li><li class="page_item page-item-347"><a href="http://localhost/wordpress/resources/glossary/non-event/">Non-event</a></li><li class="page_item page-item-355"><a href="http://localhost/wordpress/resources/glossary/np-chart-fraction-non-conforming-fixed-sample-size/">NP chart (fraction non-conforming, fixed sample size)</a></li><li class="page_item page-item-276"><a href="http://localhost/wordpress/resources/glossary/numerator/">Numerator</a></li><li class="page_item page-item-290"><a href="http://localhost/wordpress/resources/glossary/observation/">Observation</a></li><li class="page_item page-item-302"><a href="http://localhost/wordpress/resources/glossary/opportunity/">Opportunity</a></li><li class="page_item page-item-272"><a href="http://localhost/wordpress/resources/glossary/outcome/">Outcome</a></li><li class="page_item page-item-357"><a href="http://localhost/wordpress/resources/glossary/p-chart-fraction-non-conforming/">P chart (fraction non-conforming)</a></li><li class="page_item page-item-328"><a href="http://localhost/wordpress/resources/glossary/password-protection/">Password protection</a></li><li class="page_item page-item-332"><a href="http://localhost/wordpress/resources/glossary/process/">Process</a></li><li class="page_item page-item-345"><a href="http://localhost/wordpress/resources/glossary/quality-improvement/">Quality improvement</a></li><li class="page_item page-item-304"><a href="http://localhost/wordpress/resources/glossary/range/">Range</a></li><li class="page_item page-item-322"><a href="http://localhost/wordpress/resources/glossary/remote-server/">Remote server</a></li><li class="page_item page-item-298"><a href="http://localhost/wordpress/resources/glossary/sampling/">Sampling</a></li><li class="page_item page-item-334"><a href="http://localhost/wordpress/resources/glossary/setting/">Setting</a></li><li class="page_item page-item-308"><a href="http://localhost/wordpress/resources/glossary/standard-deviation/">Standard deviation</a></li><li class="page_item page-item-330"><a href="http://localhost/wordpress/resources/glossary/structure/">Structure</a></li><li class="page_item page-item-284"><a href="http://localhost/wordpress/resources/glossary/target/">Target</a></li><li class="page_item page-item-361"><a href="http://localhost/wordpress/resources/glossary/u-chart-defects/">U chart (defects)</a></li><li class="page_item page-item-353"><a href="http://localhost/wordpress/resources/glossary/xmr-chart-mean-and-moving-range/">XMR chart (mean and moving range)</a></li><li class="page_item page-item-349"><a href="http://localhost/wordpress/resources/glossary/xr-chart-mean-and-range/">XR chart (mean and range)</a></li><li class="page_item page-item-351"><a href="http://localhost/wordpress/resources/glossary/xs-chart-mean-and-standard-deviation/">XS chart (mean and standard deviation)</a></li><li class="page_item page-item-233"><a href="http://localhost/wordpress/resources/glossary/control-chart/">Control chart</a></li></ul></li><li class="page_item page-item-230"><a href="http://localhost/wordpress/resources/indicator-library/">Indicator Library</a></li></ul></li><li class="page_item page-item-195 page_item_has_children"><a href="http://localhost/wordpress/administration/">Administration</a><ul class='children'><li class="page_item page-item-147"><a href="http://localhost/wordpress/administration/c-chart-data-entry-form/">C Chart Data Entry Form</a></li><li class="page_item page-item-143"><a href="http://localhost/wordpress/administration/np-chart-entry-form/">NP Chart Data Entry Form</a></li><li class="page_item page-item-145"><a href="http://localhost/wordpress/administration/p-chart-entry-form/">P Chart Data Entry Form</a></li><li class="page_item page-item-149"><a href="http://localhost/wordpress/administration/u-chart-data-entry-form/">U Chart Data Entry Form</a></li><li class="page_item page-item-141"><a href="http://localhost/wordpress/administration/xmr-chart-entry-form/">XMR Chart Data Entry Form</a></li><li class="page_item page-item-136"><a href="http://localhost/wordpress/administration/xr-chart/">XR Chart Data Entry Form</a></li><li class="page_item page-item-138"><a href="http://localhost/wordpress/administration/xs-chart-entry-form/">XS Chart Data Entry Form</a></li></ul></li><li class="page_item page-item-28"><a href="http://localhost/wordpress/contact/">Contact</a></li></ul></div><!-- .menu-header-container -->            </nav><!-- #access -->
+        </div><!-- .site-header-menu -->
+
+            </div><!-- .menu-access-wrap -->
+
+	</header><!-- #branding -->
+
+
+
+	<div id="main" class="clearfix">
+
+
+		<div id="primary" class="content-area">
+
+
+			<div id="content" role="main">
+
+
+
+<article id="post-31" class="post-31 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Project Planner</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="frm_forms  with_frm_style frm_style_formidable-style" id="frm_form_2_container">
+<form enctype="multipart/form-data" method="post" class="frm-show-form  frm_pro_form  frm_ajax_submit " id="form_wm6m2" >
+<div class="frm_form_fields ">
+<fieldset>
+<legend class="frm_hidden">Project Planner</legend>
+<h3 class="frm_form_title">Project Planner</h3>
+<input type="hidden" name="frm_action" value="create" />
+<input type="hidden" name="form_id" value="2" />
+<input type="hidden" name="frm_hide_fields_2" id="frm_hide_fields_2" value="" />
+<input type="hidden" name="form_key" value="wm6m2" />
+<input type="hidden" name="item_meta[0]" value="" />
+<input type="hidden" id="frm_submit_entry_2" name="frm_submit_entry_2" value="0d19bce3fd" /><input type="hidden" name="_wp_http_referer" value="/wordpress/my-projects/plan/project-planner/" />
+<input type="hidden" id="field_fwuqq" name="item_meta[418]" value="1" data-frmval="1"/>
+<div id="frm_field_182_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Confirm that your problem is suitable for <a href="http://localhost/wordpress/resources/glossary/quality-improvement/" target="_blank">quality improvement</a></h3>
+
+
+<div id="frm_field_8_container" class="frm_form_field form-field  frm_required_field frm_top_container">
+    <label for="field_oj0e9" class="frm_primary_label">In general terms, what problem have you observed?
+        <span class="frm_required"></span>
+    </label>
+    <textarea name="item_meta[8]" id="field_oj0e9" rows="5"  data-sectionid="182" data-reqmsg="This field cannot be blank."  ></textarea>
+
+
+
+</div>
+<div id="frm_field_598_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Do you expect the root cause of this problem to be a failed human or a failed system?
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_hjwil-0">            <input type="radio" name="item_meta[598]" id="field_hjwil-0" value="Failed human"   data-sectionid="182"   /> Failed human</label></div>
+			<div class="frm_radio"><label for="field_hjwil-1">            <input type="radio" name="item_meta[598]" id="field_hjwil-1" value="Failed system"   data-sectionid="182"   /> Failed system</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_600_container" class="frm_form_field  frm_top_container frm_html_container form-field">
+<style>
+p {text-align:center;}
+</style>
+<p style="color:red;"><b>STOP: The problem you have described is not suited for quality improvement.<br /> Could a better system help this human improve his/her performance? If so, change your description above.<br />If you cannot identify a better system, this may be a human resources problem. Communicate the problem to your supervisor.</b></p>
+</div>
+<div id="frm_field_599_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Can the extent of this problem be quantified?
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_l2fc9-0">            <input type="radio" name="item_meta[599]" id="field_l2fc9-0" value="Yes"   data-sectionid="182"   /> Yes</label></div>
+			<div class="frm_radio"><label for="field_l2fc9-1">            <input type="radio" name="item_meta[599]" id="field_l2fc9-1" value="No"   data-sectionid="182"   /> No</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_601_container" class="frm_form_field  frm_top_container frm_html_container form-field">
+<style>
+p {text-align:center;}
+</style>
+<p style="color:red;"><b>STOP: The problem you have identified is not suited for quality improvement.<br />Can you think of a way to directly or indirectly measure the problem over time? If so, change your answer above.<br />If no part of the problem can be measured, discuss the situation with your supervisor.</b></p>
+</div>
+</div>
+<div id="frm_field_467_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Specify where your problem is occurring</h3>
+
+
+<div id="frm_field_469_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_first frm_third">
+    <label for="field_xnwxz" class="frm_primary_label">Organization(s) where problem is occurring:
+        <span class="frm_required">*</span>
+    </label>
+    <div class="frm_opt_container">	<div class="frm_checkbox" id="frm_checkbox_469-0">
+		<label for="field_xnwxz-0">
+			<input type="checkbox" name="item_meta[469][]"
+				   id="field_xnwxz-0"
+				   value="BIPAI/Global TB"   data-sectionid="467" data-reqmsg="This field cannot be blank."   /> BIPAI/Global TB		</label>
+	</div>
+		<div class="frm_checkbox" id="frm_checkbox_469-1">
+		<label for="field_xnwxz-1">
+			<input type="checkbox" name="item_meta[469][]"
+				   id="field_xnwxz-1"
+				   value="BIPAI/HIV"   data-sectionid="467" data-reqmsg="This field cannot be blank."   /> BIPAI/HIV		</label>
+	</div>
+		<div class="frm_checkbox" id="frm_checkbox_469-2">
+		<label for="field_xnwxz-2">
+			<input type="checkbox" name="item_meta[469][]"
+				   id="field_xnwxz-2"
+				   value="BIPAI/Medical Education"   data-sectionid="467" data-reqmsg="This field cannot be blank."   /> BIPAI/Medical Education		</label>
+	</div>
+		<div class="frm_checkbox" id="frm_checkbox_469-3">
+		<label for="field_xnwxz-3">
+			<input type="checkbox" name="item_meta[469][]"
+				   id="field_xnwxz-3"
+				   value="BIPAI/SAIL"   data-sectionid="467" data-reqmsg="This field cannot be blank."   /> BIPAI/SAIL		</label>
+	</div>
+		<div class="frm_checkbox" id="frm_checkbox_469-4">
+		<label for="field_xnwxz-4">
+			<input type="checkbox" name="item_meta[469][]"
+				   id="field_xnwxz-4"
+				   value="BIPAI/Sickle Cell Disease"   data-sectionid="467" data-reqmsg="This field cannot be blank."   /> BIPAI/Sickle Cell Disease		</label>
+	</div>
+	</div>
+
+
+</div>
+<div id="frm_field_477_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_third">
+    <label for="field_4h39z" class="frm_primary_label">Country (countries) where problem is occurring:
+        <span class="frm_required">*</span>
+    </label>
+    <div class="frm_opt_container">	<div class="frm_checkbox" id="frm_checkbox_477-0">
+		<label for="field_4h39z-0">
+			<input type="checkbox" name="item_meta[477][]"
+				   id="field_4h39z-0"
+				   value=""  checked="checked"  data-sectionid="467" data-reqmsg="This field cannot be blank."   /> 		</label>
+	</div>
+	</div>
+
+
+</div>
+<div id="frm_field_478_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_third">
+    <label for="field_wqumh" class="frm_primary_label">Site(s) where problem is occurring:
+        <span class="frm_required">*</span>
+    </label>
+    <div class="frm_opt_container">	<div class="frm_checkbox" id="frm_checkbox_478-0">
+		<label for="field_wqumh-0">
+			<input type="checkbox" name="item_meta[478][]"
+				   id="field_wqumh-0"
+				   value=""  checked="checked"  data-sectionid="467" data-reqmsg="This field cannot be blank."   /> 		</label>
+	</div>
+	</div>
+
+
+</div>
+</div>
+<div id="frm_field_184_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Develop an <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a> that measures your problem</h3>
+
+
+<div id="frm_field_481_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_first frm_half">
+    <label for="field_wkejg" class="frm_primary_label">Problem category:
+        <span class="frm_required">*</span>
+    </label>
+    <select  name="item_meta[481]" id="field_wkejg"  data-sectionid="184" data-reqmsg="This field cannot be blank."  >
+<option value="" selected="selected"> </option>
+<option value="Adherence to antiretroviral or anti-tuberculosis medication">Adherence to antiretroviral or anti-tuberculosis medication</option>
+<option value="Compliance with standard of care">Compliance with standard of care</option>
+<option value="Facilities">Facilities</option>
+<option value="Laboratory">Laboratory</option>
+<option value="Loss to follow-up">Loss to follow-up</option>
+<option value="Mortality/survival">Mortality/survival</option>
+<option value="Nutrition/weight">Nutrition/weight</option>
+<option value="Other">Other</option>
+<option value="Prevention of mother-to-child transmission of HIV">Prevention of mother-to-child transmission of HIV</option>
+<option value="Response to antiretroviral or anti-tuberculosis medication">Response to antiretroviral or anti-tuberculosis medication</option>
+<option value="Special programs">Special programs</option>
+<option value="Staffing">Staffing</option>
+<option value="Test">Test</option>
+</select>
+
+
+
+</div>
+<div id="frm_field_235_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_half">
+    <label for="field_1zb6t" class="frm_primary_label">Problem/<a href="http://localhost/wordpress/resources/glossary/outcome/" target="_blank">outcome</a> <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a> (select "Other" to develop a new indicator):
+        <span class="frm_required">*</span>
+    </label>
+    <select  name="item_meta[235]" id="field_1zb6t"  data-sectionid="184" data-reqmsg="This field cannot be blank."  >
+<option value="" selected="selected"> </option>
+</select>
+
+
+
+</div>
+<div id="frm_field_240_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_first frm_third">
+    <label for="field_4urx5" class="frm_primary_label"><a href="http://localhost/wordpress/resources/glossary/numerator/" target="_blank">Numerator</a> for this <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a>:
+        <span class="frm_required">*</span>
+    </label>
+    <input type="text" id="field_4urx5" name="item_meta[240]" value=""  data-sectionid="184" data-reqmsg="This field cannot be blank."  />
+
+
+
+</div>
+<div id="frm_field_239_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_third">
+    <label for="field_2k8e6" class="frm_primary_label">Unit for this <a href="http://localhost/wordpress/resources/glossary/numerator/" target="_blank">numerator</a>:
+        <span class="frm_required">*</span>
+    </label>
+    <input type="text" id="field_2k8e6" name="item_meta[239]" value=""  data-sectionid="184" data-reqmsg="This field cannot be blank."  />
+
+
+
+</div>
+<div id="frm_field_612_container" class="frm_form_field form-field  frm_top_container frm_other_container frm_third">
+    <label for="field_uhaox" class="frm_primary_label">Source of data for this <a href="http://localhost/wordpress/resources/glossary/numerator/" target="_blank">numerator:</a>
+        <span class="frm_required"></span>
+    </label>
+    <select name="item_meta[612]" id="field_uhaox"  data-sectionid="184"   >
+		<option value=""  selected="selected"> </option>
+    		<option value="1" >Electronic medical record (EMR)</option>
+    		<option value="2" >Hard copy medical record (patient charts)</option>
+    		<option value="3" >Registration materials (ROUTINELY-USED administrative documents NOT PART OF medical record)</option>
+    		<option value="4" >Forms and/or surveys (documents used IN ADDITION TO and NOT PART OF routine patient care)</option>
+    		<option value="Other"  class="frm_other_trigger">Other</option>
+    </select>
+<input type="text" id="field_uhaox-otext" class="frm_other_input frm_pos_none"  name="item_meta[other][612]" value="" />
+
+
+</div>
+<div id="frm_field_718_container" class="frm_form_field form-field  frm_top_container frm_first frm_half">
+    <label  class="frm_primary_label">Will this <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a> report <a href="http://localhost/wordpress/resources/glossary/continuous-data/" target="_blank">continuous</a> or <a href="http://localhost/wordpress/resources/glossary/discreet-data/" target="_blank">discreet</a> data?
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_ceoqf-0">            <input type="radio" name="item_meta[718]" id="field_ceoqf-0" value="Continuous"   data-sectionid="184"   /> Continuous</label></div>
+			<div class="frm_radio"><label for="field_ceoqf-1">            <input type="radio" name="item_meta[718]" id="field_ceoqf-1" value="Discreet"   data-sectionid="184"   /> Discreet</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_719_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label  class="frm_primary_label">Unit preference for this indicator:
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_2ic1s-0">            <input type="radio" name="item_meta[719]" id="field_2ic1s-0" value="Fraction"     /> Fraction</label></div>
+			<div class="frm_radio"><label for="field_2ic1s-1">            <input type="radio" name="item_meta[719]" id="field_2ic1s-1" value="Percent"     /> Percent</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_708_container" class="frm_form_field form-field  frm_top_container frm_first frm_third">
+    <label for="field_gn2qn" class="frm_primary_label"><a href="http://localhost/wordpress/resources/glossary/denominator/" target="_blank">Denominator</a> for this <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a>:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_gn2qn" name="item_meta[708]" value=""  data-sectionid="184"   />
+
+
+
+</div>
+<div id="frm_field_709_container" class="frm_form_field form-field  frm_top_container frm_third">
+    <label for="field_yqr54" class="frm_primary_label">Unit for this <a href="http://localhost/wordpress/resources/glossary/denominator/" target="_blank">denominator</a>:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_yqr54" name="item_meta[709]" value=""    />
+
+
+
+</div>
+<div id="frm_field_711_container" class="frm_form_field form-field  frm_top_container frm_third">
+    <label for="field_99gbd" class="frm_primary_label">Source of data for this <a href="http://localhost/wordpress/resources/glossary/numerator/" target="_blank">denominator</a>:
+        <span class="frm_required"></span>
+    </label>
+    <select name="item_meta[711]" id="field_99gbd"    >
+		<option value=""  selected="selected"> </option>
+    		<option value="1" >Electronic medical record (EMR)</option>
+    		<option value="2" >Hard copy medical record (patient charts)</option>
+    		<option value="3" >Registration materials (ROUTINELY-USED administrative documents NOT PART OF medical record)</option>
+    		<option value="4" >Forms and/or surveys (documents used IN ADDITION TO and NOT PART OF routine care)</option>
+    </select>
+
+
+
+</div>
+</div>
+<input type="hidden" name="item_meta[705]" id="field_j199c" value=""  data-sectionid="714"    />
+<input type="hidden" name="item_meta[706]" id="field_1hr0c" value=""     />
+<div id="frm_field_781_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Choose a <a href="http://localhost/wordpress/resources/glossary/control-chart/" target="_blank">control chart</a> that fits your <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a></h3>
+
+
+<div id="frm_field_787_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Will this indicator include more than one observation per interval of measurement?
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_haxb3-0">            <input type="radio" name="item_meta[787]" id="field_haxb3-0" value="XR or XS"     /> This indicator will include more than one observation per interval.</label></div>
+			<div class="frm_radio"><label for="field_haxb3-1">            <input type="radio" name="item_meta[787]" id="field_haxb3-1" value="XMR"     /> This indicator will include only one observation per interval.</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_784_container" class="frm_form_field form-field  frm_top_container">
+    <label for="field_2os4t" class="frm_primary_label">CLIMB will present data for this indicator in a:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_2os4t" name="item_meta[784]" value=""  readonly="readonly"  data-sectionid="781"   />
+
+
+
+</div>
+<div id="frm_field_785_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Will this <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a> include &lt; 10 <a href="http://localhost/wordpress/resources/glossary/observation/" target="_blank">observations</a> per <a href="http://localhost/wordpress/resources/glossary/interval/" target="_blank">interval</a> AND will each interval contain the same number of observations? These conditions are usually met only in projects that involve <a href="http://localhost/wordpress/resources/glossary/sampling/" target="_blank">sampling</a>.
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_nnlvl-0">            <input type="radio" name="item_meta[785]" id="field_nnlvl-0" value="XR Chart"   data-sectionid="781"   /> This indicator will include &lt; 10 observations per interval AND intervals will contain the same number of observations.</label></div>
+			<div class="frm_radio"><label for="field_nnlvl-1">            <input type="radio" name="item_meta[785]" id="field_nnlvl-1" value="XS Chart"   data-sectionid="781"   /> Intervals for this indicator will contain different numbers of observations.</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_786_container" class="frm_form_field form-field  frm_top_container">
+    <label for="field_2agpi" class="frm_primary_label">CLIMB will present data for this indicator in a:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_2agpi" name="item_meta[786]" value=""  readonly="readonly"  data-sectionid="781"   />
+
+
+
+</div>
+</div>
+<div id="frm_field_714_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Choose a <a href="http://localhost/wordpress/resources/glossary/control-chart/" target="_blank">control chart</a> that fits your <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a></h3>
+
+
+<div id="frm_field_216_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Can both <a href="http://localhost/wordpress/resources/glossary/events/" target="_blank">events</a> and <a href="http://localhost/wordpress/resources/glossary/non-event/" target="_blank">non-events</a> be counted for this <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a>?
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_vd7py-0">            <input type="radio" name="item_meta[216]" id="field_vd7py-0" value="Both events and non-events can be counted for this indicator."   data-sectionid="714"   /> Both events and non-events can be counted for this indicator.</label></div>
+			<div class="frm_radio"><label for="field_vd7py-1">            <input type="radio" name="item_meta[216]" id="field_vd7py-1" value="Events can be counted for this indicator but non-events cannot."   data-sectionid="714"   /> Events can be counted for this indicator but non-events cannot.</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_217_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Will each <a href="http://localhost/wordpress/resources/glossary/interval/" target="_blank">interval</a> of measurement contain the same number of <a href="http://localhost/wordpress/resources/glossary/observation/" target="_blank">observations</a>? This condition is usually met only in projects that involve <a href="http://localhost/wordpress/resources/glossary/sampling/" target="_blank">sampling</a>.
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_m4vat-0">            <input type="radio" name="item_meta[217]" id="field_m4vat-0" value="NP Chart"   data-sectionid="714"   /> Each interval will contain the same number of observations.</label></div>
+			<div class="frm_radio"><label for="field_m4vat-1">            <input type="radio" name="item_meta[217]" id="field_m4vat-1" value="P Chart"   data-sectionid="714"   /> Each interval will contain different numbers of observations.</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_771_container" class="frm_form_field form-field  frm_top_container">
+    <label for="field_dmo12" class="frm_primary_label">CLIMB will present data for this indicator in a:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_dmo12" name="item_meta[771]" value=""  readonly="readonly"    />
+
+
+
+</div>
+<div id="frm_field_218_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Will each <a href="http://localhost/wordpress/resources/glossary/interval/" target="_blank">interval</a> of measurement contain the same <a href="http://localhost/wordpress/resources/glossary/opportunity/" target="_blank">opportunity</a> for an <a href="http://localhost/wordpress/resources/glossary/event/" target="_blank">event</a> to occur? These conditions are usually met only in projects that involve <a href="http://localhost/wordpress/resources/glossary/sampling/" target="_blank">sampling</a>.
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_31zox-0">            <input type="radio" name="item_meta[218]" id="field_31zox-0" value="C Chart"   data-sectionid="714"   /> Each interval of measurement for this indicator will contain the same opportunity for an event to occur.</label></div>
+			<div class="frm_radio"><label for="field_31zox-1">            <input type="radio" name="item_meta[218]" id="field_31zox-1" value="U Chart"   data-sectionid="714"   /> Each interval of measurement for this indicator will contain a different opportunity for an event to occur.</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_773_container" class="frm_form_field form-field  frm_top_container">
+    <label for="field_6e9ju" class="frm_primary_label">CLIMB will present data for this indicator in a:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_6e9ju" name="item_meta[773]" value=""  readonly="readonly"  data-sectionid="714"   />
+
+
+
+</div>
+</div>
+<div id="frm_field_803_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Choose a <a href="http://localhost/wordpress/resources/glossary/control-chart/" target="_blank">control chart</a> that fits your <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a></h3>
+
+
+<div id="frm_field_798_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Will each <a href="http://localhost/wordpress/resources/glossary/interval/" target="_blank">interval</a> of measurement contain the same number of <a href="http://localhost/wordpress/resources/glossary/observation/" target="_blank">observations</a>? This condition is usually met only in projects that involve <a href="http://localhost/wordpress/resources/glossary/sampling/" target="_blank">sampling</a>.
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_6jhhv-0">            <input type="radio" name="item_meta[798]" id="field_6jhhv-0" value="NP Chart"   data-sectionid="803"   /> Each interval will contain the same number of observations.</label></div>
+			<div class="frm_radio"><label for="field_6jhhv-1">            <input type="radio" name="item_meta[798]" id="field_6jhhv-1" value="P Chart"   data-sectionid="803"   /> Each interval will contain different numbers of observations.</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_799_container" class="frm_form_field form-field  frm_top_container">
+    <label for="field_efnp0" class="frm_primary_label">CLIMB will present data for this indicator in a:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_efnp0" name="item_meta[799]" value=""  readonly="readonly"  data-sectionid="803"   />
+
+
+
+</div>
+</div>
+<div id="frm_field_796_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Choose a <a href="http://localhost/wordpress/resources/glossary/control-chart/" target="_blank">control chart</a> that fits your <a href="http://localhost/wordpress/resources/glossary/indicator/" target="_blank">indicator</a></h3>
+
+
+<div id="frm_field_807_container" class="frm_form_field form-field  frm_top_container">
+    <label  class="frm_primary_label">Will each <a href="http://localhost/wordpress/resources/glossary/interval/" target="_blank">interval</a> of measurement contain the same <a href="http://localhost/wordpress/resources/glossary/opportunity/" target="_blank">opportunity</a> for an <a href="http://localhost/wordpress/resources/glossary/event/" target="_blank">event</a> to occur? These conditions are usually met only in projects that involve <a href="http://localhost/wordpress/resources/glossary/sampling/" target="_blank">sampling</a>.
+        <span class="frm_required"></span>
+    </label>
+    <div class="frm_opt_container">			<div class="frm_radio"><label for="field_7qpqm-0">            <input type="radio" name="item_meta[807]" id="field_7qpqm-0" value="C Chart"   data-sectionid="796"   /> Each interval of measurement for this indicator will contain the same opportunity for an event to occur.</label></div>
+			<div class="frm_radio"><label for="field_7qpqm-1">            <input type="radio" name="item_meta[807]" id="field_7qpqm-1" value="U Chart"   data-sectionid="796"   /> Each interval of measurement for this indicator will contain a different opportunity for an event to occur.</label></div>
+</div>
+
+
+</div>
+<div id="frm_field_811_container" class="frm_form_field form-field  frm_top_container">
+    <label for="field_tkic8" class="frm_primary_label">CLIMB will present data for this indicator in a:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_tkic8" name="item_meta[811]" value=""  readonly="readonly"  data-sectionid="796"   />
+
+
+
+</div>
+</div>
+<input type="hidden" name="item_meta[703]" id="field_hcl3x" value=""     />
+<input type="hidden" name="item_meta[813]" id="field_8h0l1" value=""     />
+<div id="frm_field_722_container" class="frm_form_field frm_section_heading form-field ">
+<h3 class="frm_pos_top frm_section_spacing">Set the interval for your control chart</h3>
+
+
+<div id="frm_field_721_container" class="frm_form_field form-field  frm_required_field frm_top_container">
+    <label for="field_uqifz" class="frm_primary_label">What is your target for this indicator (average percent of units that are expected to be non-conforming)?
+        <span class="frm_required">*</span>
+    </label>
+    <select  name="item_meta[721]" id="field_uqifz"  data-sectionid="722" data-reqmsg="This field cannot be blank."  >
+<option value="" selected="selected"> </option>
+<option value="0.1%">0.1%</option>
+<option value="0.5%">0.5%</option>
+<option value="1%">1%</option>
+<option value="1.5%">1.5%</option>
+<option value="10%">10%</option>
+<option value="12%">12%</option>
+<option value="15%">15%</option>
+<option value="2%">2%</option>
+<option value="20%">20%</option>
+<option value="25%">25%</option>
+<option value="3%">3%</option>
+<option value="30%">30%</option>
+<option value="4%">4%</option>
+<option value="40%">40%</option>
+<option value="5%">5%</option>
+<option value="50%">50%</option>
+<option value="6%">6%</option>
+<option value="8%">8%</option>
+</select>
+
+
+
+</div>
+<div id="frm_field_724_container" class="frm_form_field form-field  frm_top_container frm_first frm_half">
+    <label for="field_te9di" class="frm_primary_label">Preferred sensitivity:
+        <span class="frm_required"></span>
+    </label>
+    <select name="item_meta[724]" id="field_te9di"  data-sectionid="722"   >
+		<option value=""  selected="selected"> </option>
+    		<option value="Minimum sensitivity (to ensure P = 0 for &lt; 25% of intervals)" >Minimum sensitivity (to ensure P = 0 for &lt; 25% of intervals)</option>
+    		<option value="Intermediate sensitivity (to ensure n &gt; 300/P)" >Intermediate sensitivity (to ensure n &gt; 300/P)</option>
+    		<option value="Maximum sensitivity (to ensure LCL &gt; 0)" >Maximum sensitivity (to ensure LCL &gt; 0)</option>
+    </select>
+
+
+
+</div>
+<div id="frm_field_725_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_foibc" class="frm_primary_label">Frequency at which any observation is made at your site(s):
+        <span class="frm_required"></span>
+    </label>
+    <select name="item_meta[725]" id="field_foibc"  data-sectionid="722"   >
+		<option value=""  selected="selected"> </option>
+    		<option value="0.000694444" >Every minute</option>
+    		<option value="0.003472222" >Every 5 minutes</option>
+    		<option value="0.006944444" >Every 10 minutes</option>
+    		<option value="0.010416667" >Every 15 minutes</option>
+    		<option value="0.013888889" >Every 20 minutes</option>
+    		<option value="0.020833333" >Every 30 minutes</option>
+    		<option value="0.03125" >Every 45 minutes</option>
+    		<option value="0.041666667" >Hourly</option>
+    		<option value="0.125" >Every 3 hours</option>
+    		<option value="0.25" >Every 6 hours</option>
+    		<option value="0.5" >Every 12 hours</option>
+    		<option value="1" >Daily</option>
+    		<option value="2" >Every other day</option>
+    		<option value="7" >Weekly</option>
+    		<option value="30" >Monthly</option>
+    		<option value="90" >Quarterly (every 3 months)</option>
+    		<option value="180" >Yearly</option>
+    </select>
+
+
+
+</div>
+<div id="frm_field_728_container" class="frm_form_field form-field  frm_top_container frm_first frm_third">
+    <label for="field_2do1d" class="frm_primary_label">Observations needed per interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="number" id="field_2do1d" name="item_meta[728]" value=""  readonly="readonly"  data-sectionid="722" min="0" max="9999999" step="any" data-invmsg="Observations needed per interval: is invalid"  />
+
+
+
+</div>
+<div id="frm_field_740_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_329nq" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_329nq" name="item_meta[740]" value="Every minute"  readonly="readonly"  data-frmval="Every minute"  />
+
+
+
+</div>
+<div id="frm_field_741_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_l6f5a" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_l6f5a" name="item_meta[741]" value="Every 5 minutes"  readonly="readonly"  data-frmval="Every 5 minutes"  />
+
+
+
+</div>
+<div id="frm_field_742_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_f6tv4" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_f6tv4" name="item_meta[742]" value="Every 10 minutes"  readonly="readonly"  data-frmval="Every 10 minutes"  />
+
+
+
+</div>
+<div id="frm_field_743_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_l44kc" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_l44kc" name="item_meta[743]" value="Every 15 minutes"  readonly="readonly"  data-frmval="Every 15 minutes"  />
+
+
+
+</div>
+<div id="frm_field_744_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_vvaer" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_vvaer" name="item_meta[744]" value="Every 20 minutes"  readonly="readonly"  data-frmval="Every 20 minutes"  />
+
+
+
+</div>
+<div id="frm_field_745_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_marg8" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_marg8" name="item_meta[745]" value="Every 30 minutes"  readonly="readonly"  data-frmval="Every 30 minutes"  />
+
+
+
+</div>
+<div id="frm_field_746_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_dl32r" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_dl32r" name="item_meta[746]" value="Every 45 minutes"  readonly="readonly"  data-frmval="Every 45 minutes"  />
+
+
+
+</div>
+<div id="frm_field_747_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_1j0kl" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_1j0kl" name="item_meta[747]" value="Hourly"  readonly="readonly"  data-frmval="Hourly"  />
+
+
+
+</div>
+<div id="frm_field_748_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_n75kc" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_n75kc" name="item_meta[748]" value="Every 3 hours"  readonly="readonly"  data-frmval="Every 3 hours"  />
+
+
+
+</div>
+<div id="frm_field_751_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_oxq25" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_oxq25" name="item_meta[751]" value="Every 6 hours"  readonly="readonly"  data-frmval="Every 6 hours"  />
+
+
+
+</div>
+<div id="frm_field_752_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_h1mpi" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_h1mpi" name="item_meta[752]" value="Every 12 hours"  readonly="readonly"  data-sectionid="722" data-frmval="Every 12 hours"  />
+
+
+
+</div>
+<div id="frm_field_753_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_ft7r0" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_ft7r0" name="item_meta[753]" value="Daily"  readonly="readonly"  data-sectionid="722" data-frmval="Daily"  />
+
+
+
+</div>
+<div id="frm_field_754_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_dio81" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_dio81" name="item_meta[754]" value="Every other day"  readonly="readonly"  data-sectionid="722" data-frmval="Every other day"  />
+
+
+
+</div>
+<div id="frm_field_755_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_o1ais" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_o1ais" name="item_meta[755]" value="Weekly"  readonly="readonly"  data-sectionid="722" data-frmval="Weekly"  />
+
+
+
+</div>
+<div id="frm_field_756_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_23kyn" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_23kyn" name="item_meta[756]" value="Monthly"  readonly="readonly"  data-sectionid="722" data-frmval="Monthly"  />
+
+
+
+</div>
+<div id="frm_field_757_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_8yw5k" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_8yw5k" name="item_meta[757]" value="Quarterly (every 3 months)"  readonly="readonly"  data-sectionid="722" data-frmval="Quarterly (every 3 months)"  />
+
+
+
+</div>
+<div id="frm_field_758_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_gyjne" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_gyjne" name="item_meta[758]" value="Every 6 months"  readonly="readonly"  data-sectionid="722" data-frmval="Every 6 months"  />
+
+
+
+</div>
+<div id="frm_field_759_container" class="frm_form_field form-field  frm_top_container frm_half">
+    <label for="field_ncgcw" class="frm_primary_label">Recommended interval:
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_ncgcw" name="item_meta[759]" value="Yearly"  readonly="readonly"  data-sectionid="722" data-frmval="Yearly"  />
+
+
+
+</div>
+</div>
+<input type="hidden" name="item_meta[750]" id="field_ddro2" value=""     />
+<input type="hidden" name="item_meta[768]" id="field_mblcn" value=""     />
+<input type="hidden" name="item_key" value="" />
+<div class="frm_submit">
+
+<input type="submit" value="Submit"  />
+<img class="frm_ajax_loading" src="http://localhost/wordpress/wp-content/plugins/formidable/images/ajax_loader.gif" alt="Sending"/>
+
+</div></fieldset>
+</div>
+</form>
+</div>
+
+			</div><!-- .entry-content -->
+	<footer class="entry-meta">
+		<span class="edit-link"><a class="post-edit-link" href="http://localhost/wordpress/wp-admin/post.php?post=31&#038;action=edit">Edit</a></span>	</footer><!-- .entry-meta -->
+</article><!-- #post-31 -->
+						<div id="comments">
+
+
+
+
+</div><!-- #comments -->
+
+		</div><!-- #content -->
+
+
+	</div><!-- #primary -->
+
+
+
+
+
+	</div><!-- #main -->
+
+
+
+	<footer id="colophon" role="contentinfo">
+
+
+        <div id="site-generator" class="clearfix">
+
+
+			<nav class="social-profile" role="navigation" aria-label="Footer Social Links Menu">
+ 		 		<ul>
+				</ul>
+			</nav><!-- .social-profile --><div class="copyright">Copyright &copy; 2017 <a href="http://localhost/wordpress/" title="Collaboration for Locally-Driven Improvement in Pediatrics" ><span>Collaboration for Locally-Driven Improvement in Pediatrics</span></a>. All Rights Reserved.</div><div class="powered"><span class="theme-name">Theme: Catch Box by </span><span class="theme-author"><a href="https://catchthemes.com/" title="Catch Themes">Catch Themes</a></span></div>
+
+        </div> <!-- #site-generator -->
+
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<a href="#branding" id="scrollup"><span class="screen-reader-text">Go to Header Section</span></a>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://localhost/wordpress?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script><script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/admin-bar.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/catch-box/js/catchbox-fitvids.min.js?ver=20140315'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/catch-box/js/skip-link-focus-fix.js?ver=20151112'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/catch-box/js/navigation.js?ver=20152512'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/catch-box/js/catchbox-scrollup.min.js?ver=20072014'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var frm_js = {"ajax_url":"http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php","images_url":"http:\/\/localhost\/wordpress\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4","nonce":"55cb0f7d4b","id":"ID"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/formidable/js/formidable.min.js?ver=2.02.04'></script>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+var frmrules={"8":{"fieldId":"8","fieldKey":"oj0e9","fieldType":"textarea","inputType":"textarea","isMultiSelect":false,"formId":"2","inSection":"182","inEmbedForm":"0","isRepeating":false,"dependents":["598"],"showHide":"show","anyAll":"any","conditions":[]},"598":{"fieldId":"598","fieldKey":"hjwil","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"182","inEmbedForm":"0","isRepeating":false,"dependents":["600","599","467"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"8","operator":"!=","value":""}],"status":"complete"},"600":{"fieldId":"600","fieldKey":"z7zxi","fieldType":"html","inputType":"html","isMultiSelect":false,"formId":"2","inSection":"182","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"598","operator":"==","value":"Failed human"}],"status":"complete"},"599":{"fieldId":"599","fieldKey":"l2fc9","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"182","inEmbedForm":"0","isRepeating":false,"dependents":["601","467"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"598","operator":"==","value":"Failed system"}],"status":"complete"},"601":{"fieldId":"601","fieldKey":"4p2w1","fieldType":"html","inputType":"html","isMultiSelect":false,"formId":"2","inSection":"182","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"599","operator":"==","value":"No"}],"status":"complete"},"467":{"fieldId":"467","fieldKey":"bjwzv","fieldType":"divider","inputType":"divider","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"598","operator":"==","value":"Failed system"},{"fieldId":"599","operator":"==","value":"Yes"}],"status":"complete"},"469":{"fieldId":"469","fieldKey":"xnwxz","fieldType":"lookup","inputType":"checkbox","isMultiSelect":false,"formId":"2","inSection":"467","inEmbedForm":"0","isRepeating":false,"dependents":["184"],"showHide":"show","anyAll":"any","conditions":[]},"477":{"fieldId":"477","fieldKey":"4h39z","fieldType":"lookup","inputType":"checkbox","isMultiSelect":false,"formId":"2","inSection":"467","inEmbedForm":"0","isRepeating":false,"dependents":["184"],"showHide":"show","anyAll":"any","conditions":[]},"478":{"fieldId":"478","fieldKey":"wqumh","fieldType":"lookup","inputType":"checkbox","isMultiSelect":false,"formId":"2","inSection":"467","inEmbedForm":"0","isRepeating":false,"dependents":["184"],"showHide":"show","anyAll":"any","conditions":[]},"184":{"fieldId":"184","fieldKey":"4ssq9","fieldType":"divider","inputType":"divider","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"469","operator":"!=","value":""},{"fieldId":"477","operator":"!=","value":""},{"fieldId":"478","operator":"!=","value":""}],"status":"complete"},"235":{"fieldId":"235","fieldKey":"1zb6t","fieldType":"lookup","inputType":"select","isMultiSelect":false,"formId":"2","inSection":"184","inEmbedForm":"0","isRepeating":false,"dependents":["240","239","612","718"],"showHide":"show","anyAll":"all","conditions":[]},"240":{"fieldId":"240","fieldKey":"4urx5","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"184","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"hide","anyAll":"any","conditions":[{"fieldId":"235","operator":"==","value":""}],"status":"complete"},"239":{"fieldId":"239","fieldKey":"2k8e6","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"184","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"235","operator":"!=","value":""}],"status":"complete"},"481":{"fieldId":"481","fieldKey":"wkejg","fieldType":"lookup","inputType":"select","isMultiSelect":false,"formId":"2","inSection":"184","inEmbedForm":"0","isRepeating":false,"dependents":["612"],"showHide":"show","anyAll":"any","conditions":[]},"612":{"fieldId":"612","fieldKey":"uhaox","fieldType":"select","inputType":"select","isMultiSelect":false,"formId":"2","inSection":"184","inEmbedForm":"0","isRepeating":false,"dependents":["718"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"481","operator":"!=","value":""},{"fieldId":"235","operator":"!=","value":""}],"status":"complete"},"718":{"fieldId":"718","fieldKey":"ceoqf","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"184","inEmbedForm":"0","isRepeating":false,"dependents":["719","781","787","714"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"235","operator":"==","value":"New indicator"},{"fieldId":"612","operator":"!=","value":""}],"status":"complete"},"719":{"fieldId":"719","fieldKey":"2ic1s","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":["708","709","711"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"718","operator":"==","value":"Discreet"}],"status":"complete"},"703":{"fieldId":"703","fieldKey":"hcl3x","fieldType":"hidden","inputType":"hidden","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":["708","708","709","709","711","711","781","781","784","217","218","803","798","796","807"],"showHide":"show","anyAll":"any","conditions":[]},"708":{"fieldId":"708","fieldKey":"gn2qn","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"184","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"703","operator":"==","value":"NP or P"},{"fieldId":"703","operator":"==","value":"C or U"},{"fieldId":"719","operator":"!=","value":""}],"status":"complete"},"709":{"fieldId":"709","fieldKey":"yqr54","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"703","operator":"==","value":"NP or P"},{"fieldId":"703","operator":"==","value":"C or U"},{"fieldId":"719","operator":"!=","value":""}],"status":"complete"},"711":{"fieldId":"711","fieldKey":"99gbd","fieldType":"select","inputType":"select","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":["714","803","798","796","807"],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"703","operator":"==","value":"NP or P"},{"fieldId":"703","operator":"==","value":"C or U"},{"fieldId":"719","operator":"!=","value":""}],"status":"complete"},"781":{"fieldId":"781","fieldKey":"70hqp","fieldType":"divider","inputType":"divider","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"718","operator":"==","value":"Continuous"},{"fieldId":"703","operator":"==","value":"XR or XS"},{"fieldId":"703","operator":"==","value":"XMR"}],"status":"complete"},"787":{"fieldId":"787","fieldKey":"haxb3","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":["784","785"],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"718","operator":"==","value":"Continuous"}],"status":"complete"},"784":{"fieldId":"784","fieldKey":"2os4t","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"781","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"703","operator":"==","value":"XMR"},{"fieldId":"787","operator":"==","value":"XMR"}],"status":"complete"},"785":{"fieldId":"785","fieldKey":"nnlvl","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"781","inEmbedForm":"0","isRepeating":false,"dependents":["786"],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"787","operator":"==","value":"XR or XS"}],"status":"complete"},"786":{"fieldId":"786","fieldKey":"2agpi","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"781","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"785","operator":"!=","value":""}],"status":"complete"},"714":{"fieldId":"714","fieldKey":"53ppf","fieldType":"divider","inputType":"divider","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"718","operator":"==","value":"Discreet"},{"fieldId":"711","operator":"!=","value":""}],"status":"complete"},"216":{"fieldId":"216","fieldKey":"vd7py","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"714","inEmbedForm":"0","isRepeating":false,"dependents":["217","218"],"showHide":"show","anyAll":"any","conditions":[]},"217":{"fieldId":"217","fieldKey":"m4vat","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"714","inEmbedForm":"0","isRepeating":false,"dependents":["771"],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"216","operator":"==","value":"Both events and non-events can be counted for this indicator."},{"fieldId":"703","operator":"==","value":"NP or P"}],"status":"complete"},"771":{"fieldId":"771","fieldKey":"dmo12","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"217","operator":"!=","value":""}],"status":"complete"},"218":{"fieldId":"218","fieldKey":"31zox","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"714","inEmbedForm":"0","isRepeating":false,"dependents":["773"],"showHide":"show","anyAll":"any","conditions":[{"fieldId":"216","operator":"==","value":"Events can be counted for this indicator but non-events cannot."},{"fieldId":"703","operator":"==","value":"C or U"}],"status":"complete"},"773":{"fieldId":"773","fieldKey":"6e9ju","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"714","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"218","operator":"!=","value":""}],"status":"complete"},"803":{"fieldId":"803","fieldKey":"demzq","fieldType":"divider","inputType":"divider","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"703","operator":"==","value":"NP or P"},{"fieldId":"711","operator":"!=","value":""}],"status":"complete"},"798":{"fieldId":"798","fieldKey":"6jhhv","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"803","inEmbedForm":"0","isRepeating":false,"dependents":["799"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"703","operator":"==","value":"NP or P"},{"fieldId":"711","operator":"!=","value":""}],"status":"complete"},"799":{"fieldId":"799","fieldKey":"efnp0","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"803","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"798","operator":"!=","value":""}],"status":"complete"},"796":{"fieldId":"796","fieldKey":"gco9u","fieldType":"divider","inputType":"divider","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"703","operator":"==","value":"C or U"},{"fieldId":"711","operator":"!=","value":""}],"status":"complete"},"807":{"fieldId":"807","fieldKey":"7qpqm","fieldType":"radio","inputType":"radio","isMultiSelect":false,"formId":"2","inSection":"796","inEmbedForm":"0","isRepeating":false,"dependents":["811"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"703","operator":"==","value":"C or U"},{"fieldId":"711","operator":"!=","value":""}],"status":"complete"},"811":{"fieldId":"811","fieldKey":"tkic8","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"796","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"807","operator":"!=","value":""}],"status":"complete"},"813":{"fieldId":"813","fieldKey":"8h0l1","fieldType":"hidden","inputType":"hidden","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":["722"],"showHide":"show","anyAll":"any","conditions":[]},"722":{"fieldId":"722","fieldKey":"x9u27","fieldType":"divider","inputType":"divider","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"813","operator":"==","value":"P Chart"}],"status":"complete"},"721":{"fieldId":"721","fieldKey":"uqifz","fieldType":"lookup","inputType":"select","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":["724"],"showHide":"show","anyAll":"any","conditions":[]},"724":{"fieldId":"724","fieldKey":"te9di","fieldType":"select","inputType":"select","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":["725"],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"721","operator":"!=","value":""}],"status":"complete"},"725":{"fieldId":"725","fieldKey":"foibc","fieldType":"select","inputType":"select","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"724","operator":"!=","value":""}],"status":"complete"},"750":{"fieldId":"750","fieldKey":"ddro2","fieldType":"hidden","inputType":"hidden","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":["740","740","741","741","742","742","743","743","744","744","745","745","746","746","747","747","748","748","751","751","752","752","753","753","754","754","755","755","756","756","757","757","758","758","759"],"showHide":"show","anyAll":"any","conditions":[]},"740":{"fieldId":"740","fieldKey":"329nq","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.000000001"},{"fieldId":"750","operator":"<","value":"0.000694445"}],"status":"complete"},"741":{"fieldId":"741","fieldKey":"l6f5a","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.000694444"},{"fieldId":"750","operator":"<","value":"0.003472223"}],"status":"complete"},"742":{"fieldId":"742","fieldKey":"f6tv4","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.003472222"},{"fieldId":"750","operator":"<","value":"0.006944445"}],"status":"complete"},"743":{"fieldId":"743","fieldKey":"l44kc","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.006944444"},{"fieldId":"750","operator":"<","value":"0.010416668"}],"status":"complete"},"744":{"fieldId":"744","fieldKey":"vvaer","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.010416667"},{"fieldId":"750","operator":"<","value":"0.013888889"}],"status":"complete"},"745":{"fieldId":"745","fieldKey":"marg8","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.013888889"},{"fieldId":"750","operator":"<","value":"0.020833334"}],"status":"complete"},"746":{"fieldId":"746","fieldKey":"dl32r","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.020833333"},{"fieldId":"750","operator":"<","value":"0.031250001"}],"status":"complete"},"747":{"fieldId":"747","fieldKey":"1j0kl","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.03125"},{"fieldId":"750","operator":"<","value":"0.041666667"}],"status":"complete"},"748":{"fieldId":"748","fieldKey":"n75kc","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.041666667"},{"fieldId":"750","operator":"<","value":"0.125000001"}],"status":"complete"},"751":{"fieldId":"751","fieldKey":"oxq25","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"0","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.125"},{"fieldId":"750","operator":"<","value":"0.250000001"}],"status":"complete"},"752":{"fieldId":"752","fieldKey":"h1mpi","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.25"},{"fieldId":"750","operator":"<","value":"0.500000001"}],"status":"complete"},"753":{"fieldId":"753","fieldKey":"ft7r0","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"0.5"},{"fieldId":"750","operator":"<","value":"1.000000001"}],"status":"complete"},"754":{"fieldId":"754","fieldKey":"dio81","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"1"},{"fieldId":"750","operator":"<","value":"2.000000001"}],"status":"complete"},"755":{"fieldId":"755","fieldKey":"o1ais","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"2"},{"fieldId":"750","operator":"<","value":"7.000000001"}],"status":"complete"},"756":{"fieldId":"756","fieldKey":"23kyn","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"7"},{"fieldId":"750","operator":"<","value":"30.000000001"}],"status":"complete"},"757":{"fieldId":"757","fieldKey":"8yw5k","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"30"},{"fieldId":"750","operator":"<","value":"90.000000001"}],"status":"complete"},"758":{"fieldId":"758","fieldKey":"gyjne","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"90"},{"fieldId":"750","operator":"<","value":"180.000000001"}],"status":"complete"},"759":{"fieldId":"759","fieldKey":"ncgcw","fieldType":"text","inputType":"text","isMultiSelect":false,"formId":"2","inSection":"722","inEmbedForm":"0","isRepeating":false,"dependents":[],"showHide":"show","anyAll":"all","conditions":[{"fieldId":"750","operator":">","value":"180"}],"status":"complete"}};
+if(typeof __FRMRULES == 'undefined'){__FRMRULES=frmrules;}
+else{__FRMRULES=jQuery.extend({},__FRMRULES,frmrules);}	__FRMLOOKUP={"469":{"dependents":["477","478"],"fieldId":"469","fieldKey":"xnwxz","parents":[],"fieldType":"lookup","formId":"2","inSection":"467","isRepeating":false,"isMultiSelect":false,"inputType":"checkbox"},"477":{"dependents":["478"],"fieldId":"477","fieldKey":"4h39z","parents":["469"],"fieldType":"lookup","formId":"2","inSection":"467","isRepeating":false,"isMultiSelect":false,"inputType":"checkbox"},"478":{"dependents":[],"fieldId":"478","fieldKey":"wqumh","parents":["469","477"],"fieldType":"lookup","formId":"2","inSection":"467","isRepeating":false,"isMultiSelect":false,"inputType":"checkbox"},"481":{"dependents":["235"],"fieldId":"481","fieldKey":"wkejg","parents":[],"fieldType":"lookup","formId":"2","inSection":"184","isRepeating":false,"isMultiSelect":false,"inputType":"select"},"235":{"dependents":["240","239","708","709","705","703"],"fieldId":"235","fieldKey":"1zb6t","parents":["481"],"fieldType":"lookup","formId":"2","inSection":"184","isRepeating":false,"isMultiSelect":false,"inputType":"select"},"240":{"dependents":[],"fieldId":"240","fieldKey":"4urx5","parents":["235"],"fieldType":"text","formId":"2","inSection":"184","isRepeating":false,"isMultiSelect":false,"inputType":"text"},"239":{"dependents":[],"fieldId":"239","fieldKey":"2k8e6","parents":["235"],"fieldType":"text","formId":"2","inSection":"184","isRepeating":false,"isMultiSelect":false,"inputType":"text"},"708":{"dependents":[],"fieldId":"708","fieldKey":"gn2qn","parents":["235"],"fieldType":"text","formId":"2","inSection":"184","isRepeating":false,"isMultiSelect":false,"inputType":"text"},"709":{"dependents":[],"fieldId":"709","fieldKey":"yqr54","parents":["235"],"fieldType":"text","formId":"2","inSection":"0","isRepeating":false,"isMultiSelect":false,"inputType":"text"},"705":{"dependents":[],"fieldId":"705","fieldKey":"j199c","parents":["235"],"fieldType":"hidden","formId":"2","inSection":"714","isRepeating":false,"isMultiSelect":false,"inputType":"hidden"},"703":{"dependents":[],"fieldId":"703","fieldKey":"hcl3x","parents":["235"],"fieldType":"hidden","formId":"2","inSection":"0","isRepeating":false,"isMultiSelect":false,"inputType":"hidden"},"721":{"dependents":["728"],"fieldId":"721","fieldKey":"uqifz","parents":[],"fieldType":"lookup","formId":"2","inSection":"722","isRepeating":false,"isMultiSelect":false,"inputType":"select"},"728":{"dependents":[],"fieldId":"728","fieldKey":"2do1d","parents":["721"],"fieldType":"number","formId":"2","inSection":"722","isRepeating":false,"isMultiSelect":false,"inputType":"number"}};var frmHide=["598","600","599","601","467","184","240","239","612","718","719","708","709","711","781","787","784","785","786","714","217","771","218","773","803","798","799","796","807","811","722","724","725","740","741","742","743","744","745","746","747","748","751","752","753","754","755","756","757","758","759"];if(typeof __frmHideOrShowFields == "undefined"){__frmHideOrShowFields=frmHide;}else{__frmHideOrShowFields=jQuery.extend(__frmHideOrShowFields,frmHide);}var frmcalcs={"fields":{"705":{"total":["1hr0c"],"type":"hidden","key":"[id=\"field_j199c\"]"},"787":{"total":["2os4t"],"type":"radio","key":"[id^=\"field_haxb3-\"]"},"703":{"total":["2os4t"],"type":"hidden","key":"[id=\"field_hcl3x\"]"},"785":{"total":["2agpi"],"type":"radio","key":"[id^=\"field_nnlvl-\"]"},"217":{"total":["dmo12"],"type":"radio","key":"[id^=\"field_m4vat-\"]"},"218":{"total":["6e9ju"],"type":"radio","key":"[id^=\"field_31zox-\"]"},"798":{"total":["efnp0"],"type":"radio","key":"[id^=\"field_6jhhv-\"]"},"807":{"total":["tkic8"],"type":"radio","key":"[id^=\"field_7qpqm-\"]"},"784":{"total":["8h0l1"],"type":"text","key":"[id=\"field_2os4t\"]"},"786":{"total":["8h0l1"],"type":"text","key":"[id=\"field_2agpi\"]"},"771":{"total":["8h0l1"],"type":"text","key":"[id=\"field_dmo12\"]"},"773":{"total":["8h0l1"],"type":"text","key":"[id=\"field_6e9ju\"]"},"799":{"total":["8h0l1"],"type":"text","key":"[id=\"field_efnp0\"]"},"811":{"total":["8h0l1"],"type":"text","key":"[id=\"field_tkic8\"]"},"725":{"total":["ddro2"],"type":"select","key":"[id=\"field_foibc\"]"},"728":{"total":["ddro2"],"type":"number","key":"[id=\"field_2do1d\"]"},"740":{"total":["mblcn"],"type":"text","key":"[id=\"field_329nq\"]"},"741":{"total":["mblcn"],"type":"text","key":"[id=\"field_l6f5a\"]"},"742":{"total":["mblcn"],"type":"text","key":"[id=\"field_f6tv4\"]"},"743":{"total":["mblcn"],"type":"text","key":"[id=\"field_l44kc\"]"},"744":{"total":["mblcn"],"type":"text","key":"[id=\"field_vvaer\"]"},"745":{"total":["mblcn"],"type":"text","key":"[id=\"field_marg8\"]"},"746":{"total":["mblcn"],"type":"text","key":"[id=\"field_dl32r\"]"},"747":{"total":["mblcn"],"type":"text","key":"[id=\"field_1j0kl\"]"},"748":{"total":["mblcn"],"type":"text","key":"[id=\"field_n75kc\"]"},"751":{"total":["mblcn"],"type":"text","key":"[id=\"field_oxq25\"]"},"752":{"total":["mblcn"],"type":"text","key":"[id=\"field_h1mpi\"]"},"753":{"total":["mblcn"],"type":"text","key":"[id=\"field_ft7r0\"]"},"754":{"total":["mblcn"],"type":"text","key":"[id=\"field_dio81\"]"},"755":{"total":["mblcn"],"type":"text","key":"[id=\"field_o1ais\"]"},"756":{"total":["mblcn"],"type":"text","key":"[id=\"field_23kyn\"]"},"757":{"total":["mblcn"],"type":"text","key":"[id=\"field_8yw5k\"]"},"758":{"total":["mblcn"],"type":"text","key":"[id=\"field_gyjne\"]"},"759":{"total":["mblcn"],"type":"text","key":"[id=\"field_ncgcw\"]"}},"calc":{"1hr0c":{"calc":"[707][705]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"706","in_section":"0","in_embed_form":"0","inSection":"0","inEmbedForm":"0","fields":["705"]},"2os4t":{"calc":"[787][703]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"784","in_section":"781","in_embed_form":"0","inSection":"781","inEmbedForm":"0","fields":["787","703"]},"2agpi":{"calc":"[785]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"786","in_section":"781","in_embed_form":"0","inSection":"781","inEmbedForm":"0","fields":["785"]},"dmo12":{"calc":"[217]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"771","in_section":"0","in_embed_form":"0","inSection":"0","inEmbedForm":"0","fields":["217"]},"6e9ju":{"calc":"[218]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"773","in_section":"714","in_embed_form":"0","inSection":"714","inEmbedForm":"0","fields":["218"]},"efnp0":{"calc":"[798]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"799","in_section":"803","in_embed_form":"0","inSection":"803","inEmbedForm":"0","fields":["798"]},"tkic8":{"calc":"[807]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"811","in_section":"796","in_embed_form":"0","inSection":"796","inEmbedForm":"0","fields":["807"]},"8h0l1":{"calc":"[784][786][771][773][799][811]","calc_dec":"","calc_type":"text","form_id":"2","field_id":"813","in_section":"0","in_embed_form":"0","inSection":"0","inEmbedForm":"0","fields":["784","786","771","773","799","811"]},"ddro2":{"calc":"[725]*[728]","calc_dec":"","calc_type":"","form_id":"2","field_id":"750","in_section":"0","in_embed_form":"0","inSection":"0","inEmbedForm":"0","fields":["725","728"]},"mblcn":{"calc":"[740][741][742][743][744][745][746][747][748][751][752][753][754][755][756][757][758][759]","calc_dec":"","calc_type":"","form_id":"2","field_id":"768","in_section":"0","in_embed_form":"0","inSection":"0","inEmbedForm":"0","fields":["740","741","742","743","744","745","746","747","748","751","752","753","754","755","756","757","758","759"]}},"fieldKeys":{"705":"[id=\"field_j199c\"]","787":"[id^=\"field_haxb3-\"]","703":"[id=\"field_hcl3x\"]","785":"[id^=\"field_nnlvl-\"]","217":"[id^=\"field_m4vat-\"]","218":"[id^=\"field_31zox-\"]","798":"[id^=\"field_6jhhv-\"]","807":"[id^=\"field_7qpqm-\"]","784":"[id=\"field_2os4t\"]","786":"[id=\"field_2agpi\"]","771":"[id=\"field_dmo12\"]","773":"[id=\"field_6e9ju\"]","799":"[id=\"field_efnp0\"]","811":"[id=\"field_tkic8\"]","725":"[id=\"field_foibc\"]","728":"[id=\"field_2do1d\"]","740":"[id=\"field_329nq\"]","741":"[id=\"field_l6f5a\"]","742":"[id=\"field_f6tv4\"]","743":"[id=\"field_l44kc\"]","744":"[id=\"field_vvaer\"]","745":"[id=\"field_marg8\"]","746":"[id=\"field_dl32r\"]","747":"[id=\"field_1j0kl\"]","748":"[id=\"field_n75kc\"]","751":"[id=\"field_oxq25\"]","752":"[id=\"field_h1mpi\"]","753":"[id=\"field_ft7r0\"]","754":"[id=\"field_dio81\"]","755":"[id=\"field_o1ais\"]","756":"[id=\"field_23kyn\"]","757":"[id=\"field_8yw5k\"]","758":"[id=\"field_gyjne\"]","759":"[id=\"field_ncgcw\"]"},"fieldsWithCalc":{"706":"1hr0c","784":"2os4t","786":"2agpi","771":"dmo12","773":"6e9ju","799":"efnp0","811":"tkic8","813":"8h0l1","750":"ddro2","768":"mblcn"},"triggers":["[id=\"field_j199c\"]","[id^=\"field_haxb3-\"]","[id^=\"field_nnlvl-\"]","[id^=\"field_m4vat-\"]","[id^=\"field_31zox-\"]","[id^=\"field_6jhhv-\"]","[id^=\"field_7qpqm-\"]","[id=\"field_2os4t\"]","[id=\"field_foibc\"]","[id=\"field_329nq\"]"]};
+if(typeof __FRMCALC == "undefined"){__FRMCALC=frmcalcs;}else{__FRMCALC=jQuery.extend(true,{},__FRMCALC,frmcalcs);}__frmDepLookupFields=[477,478,235,240,239,708,709,705,703,728];/*]]>*/
+</script>
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain)
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="http://localhost/wordpress/wp-admin/about.php">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/">Collaboration for Locally-Driven Improve&hellip;</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item" href="http://localhost/wordpress/wp-admin/">Dashboard</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item" href="http://localhost/wordpress/wp-admin/themes.php">Themes</a>		</li>
+		<li id="wp-admin-bar-widgets"><a class="ab-item" href="http://localhost/wordpress/wp-admin/widgets.php">Widgets</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://localhost/wordpress/wp-admin/nav-menus.php">Menus</a>		</li>
+		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item" href="http://localhost/wordpress/wp-admin/themes.php?page=custom-background">Background</a>		</li>
+		<li id="wp-admin-bar-header" class="hide-if-customize"><a class="ab-item" href="http://localhost/wordpress/wp-admin/themes.php?page=custom-header">Header</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost/wordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fwordpress%2Fmy-projects%2Fplan%2Fproject-planner%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item" href="http://localhost/wordpress/wp-admin/update-core.php" title="1 Plugin Update"><span class="ab-icon"></span><span class="ab-label">1</span><span class="screen-reader-text">1 Plugin Update</span></a>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://localhost/wordpress/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 comments awaiting moderation</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php">Post</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item" href="http://localhost/wordpress/wp-admin/media-new.php">Media</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=page">Page</a>		</li>
+		<li id="wp-admin-bar-new-fullpage"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=fullpage">FullPage</a>		</li>
+		<li id="wp-admin-bar-new-fullpage-section"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=fullpage-section">FullPage Section</a>		</li>
+		<li id="wp-admin-bar-new-fullpage-slide"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=fullpage-slide">FullPage Slide</a>		</li>
+		<li id="wp-admin-bar-new-psp_projects"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=psp_projects">Project</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://localhost/wordpress/wp-admin/user-new.php">User</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post.php?post=31&#038;action=edit">Edit Page</a>		</li>
+		<li id="wp-admin-bar-frm-forms"><a class="ab-item" href="http://localhost/wordpress/wp-admin/admin.php?page=formidable&#038;frm_action=edit&#038;id=2">Edit Form</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/wordpress/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/profile.php">Howdy, davegordon<img alt='' src='http://2.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=26&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost/wordpress/wp-admin/profile.php"><img alt='' src='http://2.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>davegordon</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost/wordpress/wp-admin/profile.php">Edit My Profile</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost/wordpress/wp-login.php?action=logout&#038;_wpnonce=dee56ce78a">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/wordpress/wp-login.php?action=logout&#038;_wpnonce=dee56ce78a">Log Out</a>
+					</div>
+
+
+</body>
+</html>
